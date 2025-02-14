@@ -11,7 +11,8 @@ module.exports = {
             bassboost: 'bassboost',
             '3d': '3d',
             vaporwave: 'vaporwave',
-            nightcore: 'nightcore'
+            nightcore: 'nightcore',
+            lofi: 'lofi'
         };
 
         const embed = new EmbedBuilder()
